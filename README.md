@@ -2,6 +2,7 @@
 
 This project is a movie application built with React and Redux, styled using Tailwind CSS. It is fully responsive and provides a seamless experience across various devices.
 
+![Alt text](thumnail.png?raw=true "Title")
 
 ## Table of Contents
 
