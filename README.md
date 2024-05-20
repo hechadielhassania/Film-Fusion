@@ -7,6 +7,7 @@ This project is a movie application built with React and Redux, styled using Tai
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [License](#license)
+- [Demo](#demo)
 
 ## Features
 
@@ -33,5 +34,6 @@ This project is a movie application built with React and Redux, styled using Tai
 
 This project is licensed under the MIT License. See the LICENSE file for details
 
+## Demo 
 
 ![Alt text](thumnail.png?raw=true "Title")
