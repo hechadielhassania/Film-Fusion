@@ -5,7 +5,6 @@ This project is a movie application built with React and Redux, styled using Tai
 ## Table of Contents
 
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
@@ -17,14 +16,6 @@ This project is a movie application built with React and Redux, styled using Tai
 - Fully responsive design
 - State management with Redux
 - Styled using Tailwind CSS
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js installed on your machine (v14 or later)
-- npm (Node Package Manager)
-
 
 ## Technologies Used
 
